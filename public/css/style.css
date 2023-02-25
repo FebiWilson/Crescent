@@ -9645,10 +9645,15 @@ h6,
 
 .reservation,
 .page-header,
-.offer,
-.footer {
+.offer{
   background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(../img/bg.jpg);
   background-position: top;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:cover;
+}
+.footer{
+  background-image: url(../img/TTC4.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size:cover;
 }
