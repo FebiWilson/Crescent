@@ -9661,3 +9661,7 @@ h6,
   background-size:cover;
 }
 
+.cellContainer {
+  /* width: 1%; */
+  /* float: left; */
+}
